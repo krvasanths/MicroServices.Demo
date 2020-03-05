@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBEbkelgR2IUufOwjKmow9Cvy4usJp1esE2mTqxgmuDDkCKPwQREEzaMhYW4s4/HVEGeUUPr1zkUn6E0JUYTRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krvas\\Source\\Repos\\MicroServices.Demo\\MicroServices.Demo\\Demo.Common1\\Demo.Common1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

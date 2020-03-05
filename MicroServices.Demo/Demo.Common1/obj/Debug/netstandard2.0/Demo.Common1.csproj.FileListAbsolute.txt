@@ -1,0 +1,9 @@
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\bin\Debug\netstandard2.0\Demo.Common1.deps.json
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\bin\Debug\netstandard2.0\Demo.Common1.dll
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\bin\Debug\netstandard2.0\Demo.Common1.pdb
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\obj\Debug\netstandard2.0\Demo.Common1.csprojAssemblyReference.cache
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\obj\Debug\netstandard2.0\Demo.Common1.csproj.CoreCompileInputs.cache
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\obj\Debug\netstandard2.0\Demo.Common1.AssemblyInfoInputs.cache
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\obj\Debug\netstandard2.0\Demo.Common1.AssemblyInfo.cs
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\obj\Debug\netstandard2.0\Demo.Common1.dll
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common1\obj\Debug\netstandard2.0\Demo.Common1.pdb

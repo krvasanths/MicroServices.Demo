@@ -1,0 +1,9 @@
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.deps.json
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.dll
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.pdb
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.csprojAssemblyReference.cache
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.csproj.CoreCompileInputs.cache
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.AssemblyInfoInputs.cache
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.AssemblyInfo.cs
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.dll
+C:\Users\krvas\Source\Repos\WebApplication3\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.pdb

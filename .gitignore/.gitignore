@@ -6,6 +6,12 @@
 *.exe
 *.o
 *.so
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
 
 # Packages #
 ############
